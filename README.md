@@ -19,3 +19,4 @@
 ### [New Raspberry Pi OS release — December 2020](https://www.raspberrypi.org/blog/new-raspberry-pi-os-release-december-2020/)
 ### [Understanding NETCONF and YANG](https://www.networkworld.com/article/2173842/understanding-netconf-and-yang.html)
 ### [IoT Vertical Markets](https://www.iotm2mcouncil.org/iot-library/iot-vertical-markets/)
+## Project: [IoT Video Processing Based on Hardware](https://github.com/Crispangle/EE629-IOT/tree/master/project)
