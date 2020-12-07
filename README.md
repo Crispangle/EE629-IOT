@@ -22,7 +22,7 @@
 ### [IoT Vertical Markets](https://www.iotm2mcouncil.org/iot-library/iot-vertical-markets/)
 ### 
 ## Project: [IoT Video Processing Based on Hardware](https://github.com/Crispangle/EE629-IOT/tree/master/project)
-### 
+### References [webcam2rgb](https://github.com/berndporr/webcam2rgb)
 ## Acknowledgements
 ### Kevin and his course: [Internet of Things](https://github.com/kevinwlu/iot)
 ### [My classmates](https://sites.google.com/view/ece629/projects/2020-fall) who give me opportunity to know others work on IoT.
