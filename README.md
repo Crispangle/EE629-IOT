@@ -24,4 +24,5 @@
 ## Project: [IoT Video Processing Based on Hardware](https://github.com/Crispangle/EE629-IOT/tree/master/project)
 ### 
 ## Acknowledgements
-### Kevin and his course: [Internet of Things](https://github.com/kevinwlu/iot) and [my classmates](https://sites.google.com/view/ece629/projects/2020-fall)
+### Kevin and his course: [Internet of Things](https://github.com/kevinwlu/iot)
+### [My classmates](https://sites.google.com/view/ece629/projects/2020-fall) who give me opportunity to know others work on IoT.
