@@ -11,4 +11,11 @@
 ### Lesson 9: NETCONF and YANG     [Lab9](https://github.com/Crispangle/EE629-IOT/blob/master/Labs/Lab%209.pdf)  
 ### Lesson 10: Blockchain          [Lab10](https://github.com/Crispangle/EE629-IOT/blob/master/Labs/Lab%2010.pdf)  
 ## references
-### [The Internet of Things (IoT): Applications, investments, and challenges for enterprises ](https://www.sciencedirect.com/science/article/abs/pii/S0007681315000373)  
+### [The Internet of Things (IoT): Applications, investments, and challenges for enterprises ](https://www.sciencedirect.com/science/article/abs/pii/S0007681315000373) 
+### [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198990/) 
+### [Internet of Vehicles: An Introduction](https://www.researchgate.net/publication/323595090_INTERNET_OF_VEHICLES_AN_INTRODUCTION)  
+### [What Will Smart Homes Look Like 10 Years From Now?](https://time.com/5634791/smart-homes-future/)
+### [IoT and Machine Learning - Changing the Future](https://www.youtube.com/watch?v=mlE03Fj2T9s&feature=emb_title) 
+### [New Raspberry Pi OS release — December 2020](https://www.raspberrypi.org/blog/new-raspberry-pi-os-release-december-2020/)
+### [Understanding NETCONF and YANG](https://www.networkworld.com/article/2173842/understanding-netconf-and-yang.html)
+### [IoT Vertical Markets](https://www.iotm2mcouncil.org/iot-library/iot-vertical-markets/)
