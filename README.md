@@ -10,7 +10,7 @@
 ### Lesson 8: Data Analysis        [Lab8](https://github.com/Crispangle/EE629-IOT/blob/master/Labs/Lab%208.pdf)  
 ### Lesson 9: NETCONF and YANG     [Lab9](https://github.com/Crispangle/EE629-IOT/blob/master/Labs/Lab%209.pdf)  
 ### Lesson 10: Blockchain          [Lab10](https://github.com/Crispangle/EE629-IOT/blob/master/Labs/Lab%2010.pdf)  
-
+### 
 ## References 
 ### [The Internet of Things (IoT): Applications, investments, and challenges for enterprises ](https://www.sciencedirect.com/science/article/abs/pii/S0007681315000373) 
 ### [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198990/) 
@@ -20,6 +20,6 @@
 ### [New Raspberry Pi OS release — December 2020](https://www.raspberrypi.org/blog/new-raspberry-pi-os-release-december-2020/)
 ### [Understanding NETCONF and YANG](https://www.networkworld.com/article/2173842/understanding-netconf-and-yang.html)
 ### [IoT Vertical Markets](https://www.iotm2mcouncil.org/iot-library/iot-vertical-markets/)
-
+### 
 ## Project: [IoT Video Processing Based on Hardware](https://github.com/Crispangle/EE629-IOT/tree/master/project)
 
