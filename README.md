@@ -10,7 +10,7 @@
 ### Lesson 8: Data Analysis        [Lab8](https://github.com/Crispangle/EE629-IOT/blob/master/Labs/Lab%208.pdf)  
 ### Lesson 9: NETCONF and YANG     [Lab9](https://github.com/Crispangle/EE629-IOT/blob/master/Labs/Lab%209.pdf)  
 ### Lesson 10: Blockchain          [Lab10](https://github.com/Crispangle/EE629-IOT/blob/master/Labs/Lab%2010.pdf)  
-## references
+## references 
 ### [The Internet of Things (IoT): Applications, investments, and challenges for enterprises ](https://www.sciencedirect.com/science/article/abs/pii/S0007681315000373) 
 ### [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198990/) 
 ### [Internet of Vehicles: An Introduction](https://www.researchgate.net/publication/323595090_INTERNET_OF_VEHICLES_AN_INTRODUCTION)  
